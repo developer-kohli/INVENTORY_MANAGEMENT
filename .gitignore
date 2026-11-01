@@ -1,0 +1,31 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Build directories
+build/
+bin/
+obj/
+
+# Runtime binary databases
+*.dat
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test artifacts
+test_suite.exe
+test_inventory.dat
